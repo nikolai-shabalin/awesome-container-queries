@@ -26,6 +26,8 @@ https://caniuse.com/css-container-queries
 
 ### 2022
 - [Introduction to CSS Container Queries](https://birdeatsbug.com/blog/introduction-to-css-container-queries)
+- [Use the Right Container Query Syntax](https://www.oddbird.net/2022/08/18/cq-syntax/)
+- [CSS container queries are finally here](https://ishadeed.com/article/container-queries-are-finally-here/)
 
 ### 2021
 - [A Primer On CSS Container Queries](https://www.smashingmagazine.com/2021/05/complete-guide-css-container-queries/)
