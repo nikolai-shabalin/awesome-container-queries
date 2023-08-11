@@ -1,4 +1,4 @@
-# awesome-container-queries
+# Awesome container queries
 Collection of links on the topic container queries
 
 ## Specification
