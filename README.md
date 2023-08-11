@@ -23,5 +23,5 @@ Collection of links on the topic container queries
 ### 2021
 - [A Primer On CSS Container Queries](https://www.smashingmagazine.com/2021/05/complete-guide-css-container-queries/)
 
-Updat#### Browser news
+#### Browser news
 - [Container Queries jsou teď experimentálně v Chrome Canary](https://www.vzhurudolu.cz/blog/194-container-queries-chrome-91)
