@@ -18,9 +18,27 @@ Collection of links on the topic container queries
 - [Release Notes for Safari Technology Preview 174](https://webkit.org/blog/14390/release-notes-for-safari-technology-preview-174/)
 - [Chrome 115 beta](https://developer.chrome.com/en/blog/chrome-115-beta/)
 
-
 ### 2021
 - [A Primer On CSS Container Queries](https://www.smashingmagazine.com/2021/05/complete-guide-css-container-queries/)
+- [Say Hello To CSS Container Queries](https://ishadeed.com/article/say-hello-to-css-container-queries/)
+- [CSS Container Queries For Designers](https://ishadeed.com/article/container-queries-for-designers/)
+- [Container Queries in Web Components](https://mxb.dev/blog/container-queries-web-components/)
+- [CSS Container Query Units](https://ishadeed.com/article/container-query-units/)
 
 #### Browser news
 - [Container Queries jsou teď experimentálně v Chrome Canary](https://www.vzhurudolu.cz/blog/194-container-queries-chrome-91)
+
+### 2020
+- [Thoughts on an implementable path forward for Container Queries](https://philipwalton.com/articles/responsive-components-a-solution-to-the-container-queries-problem/)
+
+### 2018
+- [Responsive Components: a Solution to the Container Queries Problem](https://philipwalton.com/articles/responsive-components-a-solution-to-the-container-queries-problem/)
+- [Circularity and Container Queries](https://github.com/WICG/cq-usecases/wiki/Circularity-and-Container-Queries)
+
+### 2017
+- [What are Container Queries](https://codepen.io/tomhodgins/post/what-are-container-queries)?
+- [On container queries](https://ethanmarcotte.com/wrote/on-container-queries/)
+- [Container Queries](https://www.dotconferences.com/2017/11/jonathan-snook-container-queries)
+
+## Polyfill
+[Container Query Polyfill](https://github.com/GoogleChromeLabs/container-query-polyfill)
