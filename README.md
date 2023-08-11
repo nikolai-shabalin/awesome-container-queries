@@ -13,7 +13,6 @@ Collection of links on the topic container queries
 - [A future of themes with css container style queries](https://chriskirknielsen.com/blog/future-themes-with-container-style-queries/)
 - [Best practices for container queries](https://zellwk.com/blog/container-queries-best-practice/)
 - [Container Query Units and Fluid Typography](https://moderncss.dev/container-query-units-and-fluid-typography/)
-- A Primer On CSS Container Queries
 
 #### Browser news
 - [Release Notes for Safari Technology Preview 174](https://webkit.org/blog/14390/release-notes-for-safari-technology-preview-174/)
